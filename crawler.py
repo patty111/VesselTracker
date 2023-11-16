@@ -39,14 +39,16 @@ for i in type_list:
             # print(ship[0])
             if len(ship) > 1 and ship != None:    
                 if not any(vessel.ShipName == ship[0] for vessel in vessels):
-                    vessels.append(Vessel(
-                            ShipName=ship[0], 
-                            Type=i,
-                            IMO=ship[4], 
-                            Length=float(ship[12].replace(',', '.')),
-                            Width=float(ship[14].replace(',', '.'))))
+                    v = Vessel(
+                        ShipName=ship[0], 
+                        Type=i,
+                        IMO=ship[4], 
+                        Length=float(ship[12].replace(',', '.')),
+                        Width=float(ship[14].replace(',', '.')))
 
-                    c.execute("INSERT INTO vessel VALUES (?, ?, ?, ?, ?)", (ship[0], i, ship[4], ship[12], ship[14]))
+                    vessels.append(v)
+
+                    c.execute("INSERT INTO vessel VALUES (?, ?, ?, ?, ?)", (v.ShipName, v.Type, v.IMO, v.Length, v.Width))
                     conn.commit()
 
     except Exception as e:
