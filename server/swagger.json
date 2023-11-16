@@ -1,0 +1,114 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "version": "1.0.0",
+        "title": "Vessel API",
+        "description": "API for managing vessels"
+    },
+    "servers": [{
+            "url": "http://localhost:3000"
+        }
+    ],
+    "paths": {
+        "/": {
+            "get": {
+                "summary": "Get all vessels",
+                "responses": {
+                "200": {
+                    "description": "A list of vessels",
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "type": "array",
+                                "items": {
+                                    "$ref": "#/components/schemas/Vessel"
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "/{name}": {
+        "get": {
+            "summary": "Get a vessel by name",
+            "parameters": [{
+                "name": "name",
+                "in": "path",
+                "required": true,
+                "description": "Name of the vessel",
+                "schema": {
+                    "type": "string"
+                }
+            }],
+            "responses": {
+                "200": {
+                    "description": "A vessel",
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "$ref": "#/components/schemas/Vessel"
+                            }
+                        }
+                    }
+                },
+                "404": {
+                    "description": "Vessel not found"
+                }
+            }
+        }
+    },
+    "/type/{type}": {
+        "get": {
+            "summary": "Get vessels by type",
+            "parameters": [{
+                "name": "type",
+                "in": "path",
+                "required": true,
+                "description": "Type of the vessel",
+                "schema": {
+                    "type": "string"
+                }
+            }],
+            "responses": {
+                "200": {
+                    "description": "A list of vessels",
+                    "content": {
+                        "application/json": {
+                            "schema": {
+                                "type": "array",
+                                "items": {
+                                "$ref": "#/components/schemas/Vessel"
+                                }
+                            }
+                        }
+                    }
+                },
+                "400": {
+                    "description": "Invalid vessel type"
+                }
+            }
+        }
+    }
+    },
+    "components": {
+        "schemas": {
+            "Vessel": {
+                "type": "object",
+                "properties": {
+                    "ShipName": {
+                        "type": "string"
+                    },
+                    "type": {
+                        "$ref": "#/components/schemas/VesselType"
+                    }
+                }
+            },
+            "VesselType": {
+                "type": "string",
+                "enum": ["A", "G", "T", "F", "L", "S", "E", "B", "O", "C"]
+            }
+        }
+    }
+}
