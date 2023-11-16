@@ -10,7 +10,7 @@
         }
     ],
     "paths": {
-        "/": {
+        "/vessel/": {
             "get": {
                 "summary": "Get all vessels",
                 "responses": {
@@ -30,7 +30,7 @@
             }
         }
     },
-    "/{name}": {
+    "/vessel/{name}": {
         "get": {
             "summary": "Get a vessel by name",
             "parameters": [{
@@ -59,7 +59,7 @@
             }
         }
     },
-    "/type/{type}": {
+    "/vessel/type/{type}": {
         "get": {
             "summary": "Get vessels by type",
             "parameters": [{
