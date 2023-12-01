@@ -1,0 +1,8386 @@
+[
+  {
+    "info": {
+      "imo": 9893890,
+      "name": "Ever Ace",
+      "length": 400,
+      "width": 61.5
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701434155000,
+        "speed": 28.7,
+        "draft": 14.5,
+        "cog": 151.8,
+        "heading": 153
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.646957,
+          25.13789
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9893905,
+      "name": "Ever Act",
+      "length": 400,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701409536000,
+        "speed": 21.5,
+        "draft": 13.8,
+        "cog": 152,
+        "heading": 152
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.965032,
+          4.419155
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9893917,
+      "name": "Ever Aim",
+      "length": 400,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436461000,
+        "speed": 32.6,
+        "draft": 13.9,
+        "cog": 94.9,
+        "heading": 96
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.307643,
+          37.734408
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9893929,
+      "name": "Ever Alp",
+      "length": 400,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436428000,
+        "speed": 0,
+        "draft": 14.8,
+        "cog": 160.4,
+        "heading": 244
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.383823,
+          25.160905
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9893931,
+      "name": "Ever Arm",
+      "length": 400,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701433959000,
+        "speed": 33.3,
+        "draft": 15.6,
+        "cog": 265.4,
+        "heading": 267
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.6611,
+          12.983823
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9893943,
+      "name": "Ever Art",
+      "length": 400,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436593000,
+        "speed": 36.9,
+        "draft": 16.6,
+        "cog": 287.6,
+        "heading": 286
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.353928,
+          33.900677
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9893955,
+      "name": "Ever Alot",
+      "length": 400,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436596000,
+        "speed": 0,
+        "draft": 12,
+        "cog": 335.7,
+        "heading": 222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.199045,
+          36.001568
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9893979,
+      "name": "Ever Apex",
+      "length": 400,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437145000,
+        "speed": 0.2,
+        "draft": 14.7,
+        "cog": 169.2,
+        "heading": 25
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.655958,
+          7.047957
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9811012,
+      "name": "Ever Golden",
+      "length": 400,
+      "width": 58.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701406291000,
+        "speed": 36.9,
+        "draft": 13.7,
+        "cog": 99.6,
+        "heading": 99
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.794377,
+          38.782477
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9810991,
+      "name": "Ever Goods",
+      "length": 400,
+      "width": 59
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701422696000,
+        "speed": 21.1,
+        "draft": 12.1,
+        "cog": 270.6,
+        "heading": 273
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.773855,
+          54.198977
+        ]
+      }
+    }
+  }
+][
+  {
+    "info": {
+      "imo": 9893890,
+      "name": "Ever Ace",
+      "length": 400,
+      "width": 61.5
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701434155000,
+        "speed": 28.7,
+        "draft": 14.5,
+        "cog": 151.8,
+        "heading": 153
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.646957,
+          25.13789
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9893905,
+      "name": "Ever Act",
+      "length": 400,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701409536000,
+        "speed": 21.5,
+        "draft": 13.8,
+        "cog": 152,
+        "heading": 152
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.965032,
+          4.419155
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9893917,
+      "name": "Ever Aim",
+      "length": 400,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436461000,
+        "speed": 32.6,
+        "draft": 13.9,
+        "cog": 94.9,
+        "heading": 96
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.307643,
+          37.734408
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9893929,
+      "name": "Ever Alp",
+      "length": 400,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436428000,
+        "speed": 0,
+        "draft": 14.8,
+        "cog": 160.4,
+        "heading": 244
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.383823,
+          25.160905
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9893931,
+      "name": "Ever Arm",
+      "length": 400,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701433959000,
+        "speed": 33.3,
+        "draft": 15.6,
+        "cog": 265.4,
+        "heading": 267
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.6611,
+          12.983823
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9893943,
+      "name": "Ever Art",
+      "length": 400,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436593000,
+        "speed": 36.9,
+        "draft": 16.6,
+        "cog": 287.6,
+        "heading": 286
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.353928,
+          33.900677
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9893955,
+      "name": "Ever Alot",
+      "length": 400,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436596000,
+        "speed": 0,
+        "draft": 12,
+        "cog": 335.7,
+        "heading": 222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.199045,
+          36.001568
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9893979,
+      "name": "Ever Apex",
+      "length": 400,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437145000,
+        "speed": 0.2,
+        "draft": 14.7,
+        "cog": 169.2,
+        "heading": 25
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.655958,
+          7.047957
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9811012,
+      "name": "Ever Golden",
+      "length": 400,
+      "width": 58.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701406291000,
+        "speed": 36.9,
+        "draft": 13.7,
+        "cog": 99.6,
+        "heading": 99
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.794377,
+          38.782477
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9810991,
+      "name": "Ever Goods",
+      "length": 400,
+      "width": 59
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701422696000,
+        "speed": 21.1,
+        "draft": 12.1,
+        "cog": 270.6,
+        "heading": 273
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.773855,
+          54.198977
+        ]
+      }
+    }
+  }
+][
+  {
+    "info": {
+      "imo": 9786815,
+      "name": "Ever Genius",
+      "length": 400,
+      "width": 58.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701433988000,
+        "speed": 32.8,
+        "draft": 14.4,
+        "cog": 292.1,
+        "heading": 297
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.506852,
+          12.165095
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9811000,
+      "name": "Ever Given",
+      "length": 400,
+      "width": 59
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436466000,
+        "speed": 20.6,
+        "draft": 15.9,
+        "cog": 74.2,
+        "heading": 71
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.424542,
+          50.237667
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9786827,
+      "name": "Ever Gifted",
+      "length": 399.8,
+      "width": 58.5
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701409732000,
+        "speed": 26.9,
+        "draft": 12.4,
+        "cog": 98.9,
+        "heading": 99
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.30288,
+          6.299645
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9820855,
+      "name": "Ever Grade",
+      "length": 400,
+      "width": 59
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436790000,
+        "speed": 0,
+        "draft": 7,
+        "cog": 318,
+        "heading": 345
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.11541,
+          29.78736
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9820922,
+      "name": "Ever Gentle",
+      "length": 400,
+      "width": 59
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701088130000,
+        "speed": 30.6,
+        "draft": 14.4,
+        "cog": 172.3,
+        "heading": 171
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.537875,
+          22.110878
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9786839,
+      "name": "Ever Glory",
+      "length": 400,
+      "width": 58.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437253000,
+        "speed": 0.2,
+        "draft": 12,
+        "cog": 337.3,
+        "heading": 289
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.034857,
+          51.974218
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9832717,
+      "name": "Ever Govern",
+      "length": 400,
+      "width": 59
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437109000,
+        "speed": 35.9,
+        "draft": 14.2,
+        "cog": 254.2,
+        "heading": 255
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.698892,
+          36.346065
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9786841,
+      "name": "Ever Globe",
+      "length": 400,
+      "width": 58.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701421511000,
+        "speed": 35.2,
+        "draft": 12.6,
+        "cog": 50.5,
+        "heading": 52
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.584698,
+          1.518497
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9832729,
+      "name": "Ever Greet",
+      "length": 400,
+      "width": 59
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701248021000,
+        "speed": 24.1,
+        "draft": 15.8,
+        "cog": 190.9,
+        "heading": 192
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.199455,
+          12.76313
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9665592,
+      "name": "Thalassa Hellas",
+      "length": 368.5,
+      "width": 51
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701420258000,
+        "speed": 33.2,
+        "draft": 13.8,
+        "cog": 285.5,
+        "heading": 285
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.579547,
+          10.344462
+        ]
+      }
+    }
+  }
+][
+  {
+    "info": {
+      "imo": 9665607,
+      "name": "Thalassa Patris",
+      "length": 368.5,
+      "width": 51
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437154000,
+        "speed": 23.5,
+        "draft": 9.3,
+        "cog": 124.9,
+        "heading": 122
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.782755,
+          30.442652
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9665619,
+      "name": "Ever Top ",
+      "length": 368.5,
+      "width": 51
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1700778990000,
+        "speed": 0.6,
+        "draft": 8.5,
+        "cog": 36.4,
+        "heading": 511
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.46176,
+          31.588202
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9665621,
+      "name": "Thalassa Elpida",
+      "length": 368.5,
+      "width": 51
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701435292000,
+        "speed": 26.5,
+        "draft": 10.7,
+        "cog": 302,
+        "heading": 302
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.645238,
+          18.0708
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9665633,
+      "name": "Thalassa Avra",
+      "length": 368.5,
+      "width": 51
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701429095000,
+        "speed": 0.2,
+        "draft": 13.6,
+        "cog": 274.7,
+        "heading": 226
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.014657,
+          29.777368
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9665645,
+      "name": "Thalassa Niki",
+      "length": 368.5,
+      "width": 51
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701421974000,
+        "speed": 21.1,
+        "draft": 10.6,
+        "cog": 152.9,
+        "heading": 154
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.782888,
+          25.59231
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9667150,
+      "name": "Thalassa Mana",
+      "length": 368.5,
+      "width": 51
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701434117000,
+        "speed": 34.1,
+        "draft": 15.7,
+        "cog": 256.3,
+        "heading": 256
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.592415,
+          12.478067
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9667162,
+      "name": "Thalassa Tyhi",
+      "length": 368.4,
+      "width": 51
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437201000,
+        "speed": 11.9,
+        "draft": 11.5,
+        "cog": 89.4,
+        "heading": 89
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.64622,
+          1.202033
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9667174,
+      "name": "Thalassa Doxa",
+      "length": 368.5,
+      "width": 51
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701434020000,
+        "speed": 33,
+        "draft": 14.5,
+        "cog": 149.7,
+        "heading": 147
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.194922,
+          24.08913
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9667186,
+      "name": "Thalassa Axia",
+      "length": 368.4,
+      "width": 51
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436996000,
+        "speed": 33,
+        "draft": 12.9,
+        "cog": 102,
+        "heading": 102
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.689392,
+          38.307795
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9728916,
+      "name": "Triton",
+      "length": 369,
+      "width": 51
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701428215000,
+        "speed": 34.8,
+        "draft": 13.9,
+        "cog": 28.3,
+        "heading": 31
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.15829,
+          16.220505
+        ]
+      }
+    }
+  }
+][
+  {
+    "info": {
+      "imo": 9728928,
+      "name": "Titan",
+      "length": 369,
+      "width": 51
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701393277000,
+        "speed": 0.7,
+        "draft": 13.2,
+        "cog": 223.3,
+        "heading": 321
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.287208,
+          22.569533
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9728930,
+      "name": "Talos",
+      "length": 369,
+      "width": 51
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437158000,
+        "speed": 0.7,
+        "draft": 13.4,
+        "cog": 341.5,
+        "heading": 23
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.843625,
+          9.446858
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9728942,
+      "name": "Taurus",
+      "length": 369,
+      "width": 51
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701427895000,
+        "speed": 29.1,
+        "draft": 11.8,
+        "cog": 108.3,
+        "heading": 107
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.805665,
+          11.222278
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9728954,
+      "name": "Theseus",
+      "length": 369,
+      "width": 51
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437176000,
+        "speed": 36.5,
+        "draft": 14.6,
+        "cog": 228.4,
+        "heading": 229
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.939888,
+          24.954878
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9737462,
+      "name": "Tampa Triumph",
+      "length": 366,
+      "width": 51.2
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701434602000,
+        "speed": 35.9,
+        "draft": 15,
+        "cog": 231.4,
+        "heading": 231
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.633342,
+          1.165213
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9737474,
+      "name": "Tokyo Triumph",
+      "length": 366,
+      "width": 51.2
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437243000,
+        "speed": 21.5,
+        "draft": 10.3,
+        "cog": 109.5,
+        "heading": 105
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.106595,
+          22.5525
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9737486,
+      "name": "Toledo Triumph",
+      "length": 366,
+      "width": 51.2
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701435303000,
+        "speed": 22.2,
+        "draft": 14.7,
+        "cog": 118.5,
+        "heading": 118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.78656,
+          16.524387
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9737498,
+      "name": "Taipei Triumph",
+      "length": 366,
+      "width": 51.2
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436167000,
+        "speed": 35,
+        "draft": 14.3,
+        "cog": 109.8,
+        "heading": 109
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -133.089538,
+          30.379912
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9737503,
+      "name": "Texas Triumph",
+      "length": 365.9,
+      "width": 51.2
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437188000,
+        "speed": 0,
+        "draft": 11.8,
+        "cog": 131.9,
+        "heading": 174
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.14254,
+          32.134387
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9850525,
+      "name": "Ever Faith",
+      "length": 334,
+      "width": 48.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701434925000,
+        "speed": 37.4,
+        "draft": 15.2,
+        "cog": 128.9,
+        "heading": 128
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.295253,
+          29.21202
+        ]
+      }
+    }
+  }
+][
+  {
+    "info": {
+      "imo": 9850537,
+      "name": "Ever Focus",
+      "length": 334,
+      "width": 48.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437181000,
+        "speed": 0,
+        "draft": 11.9,
+        "cog": 79.9,
+        "heading": 511
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.183105,
+          33.762172
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9850549,
+      "name": "Ever Front",
+      "length": 334,
+      "width": 48.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437094000,
+        "speed": 0,
+        "draft": 10,
+        "cog": 189.4,
+        "heading": 322
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.306953,
+          22.568122
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9850551,
+      "name": "Ever Forward",
+      "length": 334,
+      "width": 48.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436995000,
+        "speed": 24.6,
+        "draft": 12.7,
+        "cog": 303.8,
+        "heading": 305
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.11343,
+          30.588432
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9850563,
+      "name": "Ever Fortune",
+      "length": 334,
+      "width": 48.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437034000,
+        "speed": 18.9,
+        "draft": 11.2,
+        "cog": 282.5,
+        "heading": 285
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.031528,
+          34.246488
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9850862,
+      "name": "Ever Far",
+      "length": 333.9,
+      "width": 48.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437236000,
+        "speed": 26.9,
+        "draft": 11.9,
+        "cog": 23.4,
+        "heading": 25
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.375393,
+          -24.246495
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9850575,
+      "name": "Ever Forever",
+      "length": 334,
+      "width": 48.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437253000,
+        "speed": 5,
+        "draft": 11.6,
+        "cog": 78.9,
+        "heading": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.203898,
+          48.149717
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9850795,
+      "name": "Ever Fit",
+      "length": 334,
+      "width": 48.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437219000,
+        "speed": 27,
+        "draft": 11.8,
+        "cog": 163.7,
+        "heading": 159
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.31113,
+          26.870422
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9850874,
+      "name": "Ever Fast",
+      "length": 334,
+      "width": 48.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701434087000,
+        "speed": 23.7,
+        "draft": 14.7,
+        "cog": 88.6,
+        "heading": 90
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.169425,
+          6.897962
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9850587,
+      "name": "Ever Frank",
+      "length": 334,
+      "width": 48.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701427246000,
+        "speed": 33,
+        "draft": 12.7,
+        "cog": 102.9,
+        "heading": 102
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.042748,
+          37.862578
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9850800,
+      "name": "Ever Fame",
+      "length": 334,
+      "width": 48.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701435639000,
+        "speed": 36.9,
+        "draft": 15,
+        "cog": 136,
+        "heading": 137
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          161.549,
+          39.56393
+        ]
+      }
+    }
+  }
+][
+  {
+    "info": {
+      "imo": 9850886,
+      "name": "Ever Fair",
+      "length": 334,
+      "width": 48.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701430048000,
+        "speed": 36.7,
+        "draft": 13.8,
+        "cog": 216.8,
+        "heading": 217
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          157.002903,
+          49.93115
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9850599,
+      "name": "Ever Future",
+      "length": 334,
+      "width": 48.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701408269000,
+        "speed": 33.5,
+        "draft": 10.3,
+        "cog": 188.5,
+        "heading": 190
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.100712,
+          21.974878
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9850898,
+      "name": "Ever Feat",
+      "length": 334,
+      "width": 48.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436199000,
+        "speed": 29.6,
+        "draft": 13.6,
+        "cog": 335.7,
+        "heading": 331
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -132.532673,
+          52.048887
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9850812,
+      "name": "Ever Fine",
+      "length": 334,
+      "width": 48.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701435108000,
+        "speed": 38.9,
+        "draft": 12.4,
+        "cog": 345.7,
+        "heading": 347
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5224,
+          27.023523
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9850824,
+      "name": "Ever Fore",
+      "length": 334,
+      "width": 48.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437176000,
+        "speed": 0,
+        "draft": 13.4,
+        "cog": 153.2,
+        "heading": 326
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.890668,
+          9.375215
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9850836,
+      "name": "Ever Fashion",
+      "length": 334,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436369000,
+        "speed": 35,
+        "draft": 13.3,
+        "cog": 98.3,
+        "heading": 98
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -143.082508,
+          39.333955
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9850848,
+      "name": "Ever Fond",
+      "length": 334,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701435348000,
+        "speed": 30.6,
+        "draft": 12.7,
+        "cog": 291.5,
+        "heading": 290
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -141.081258,
+          -23.081607
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9850850,
+      "name": "Ever Favor",
+      "length": 334,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701355050000,
+        "speed": 40.2,
+        "draft": 9.2,
+        "cog": 62.3,
+        "heading": 61
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.58995,
+          1.46396
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9850903,
+      "name": "Ever Full",
+      "length": 334,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701430824000,
+        "speed": 36.5,
+        "draft": 13.7,
+        "cog": 54.8,
+        "heading": 59
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.769265,
+          36.096345
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9595436,
+      "name": "Ever Lambent",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701430817000,
+        "speed": 26.5,
+        "draft": 14.2,
+        "cog": 63.7,
+        "heading": 54
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.740223,
+          36.009728
+        ]
+      }
+    }
+  }
+][
+  {
+    "info": {
+      "imo": 9595448,
+      "name": "Ever Laden",
+      "length": 335,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701435099000,
+        "speed": 28.3,
+        "draft": 14,
+        "cog": 105.9,
+        "heading": 104
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.44981,
+          24.552772
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9595450,
+      "name": "Ever Lasting",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436415000,
+        "speed": 26.9,
+        "draft": 10.9,
+        "cog": 258.2,
+        "heading": 262
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.758003,
+          37.284275
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9595462,
+      "name": "Ever Leading",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436861000,
+        "speed": 0,
+        "draft": 10.2,
+        "cog": 139.2,
+        "heading": 223
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.204315,
+          36.006532
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9595474,
+      "name": "Ever Laurel",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701422779000,
+        "speed": 24.1,
+        "draft": 14,
+        "cog": 130.5,
+        "heading": 130
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.306018,
+          29.752777
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9595486,
+      "name": "Ever Libra",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436996000,
+        "speed": 0,
+        "draft": 11.7,
+        "cog": 142.1,
+        "heading": 132
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.087632,
+          3.902658
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9595498,
+      "name": "Ever Lawful",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436172000,
+        "speed": 30.7,
+        "draft": 13,
+        "cog": 164.1,
+        "heading": 164
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.694742,
+          -14.63148
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9595503,
+      "name": "Ever Leader",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701413245000,
+        "speed": 33.5,
+        "draft": 12.6,
+        "cog": 191.1,
+        "heading": 190
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.769412,
+          11.609423
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9595515,
+      "name": "Ever Legacy",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701435156000,
+        "speed": 24.3,
+        "draft": 11.7,
+        "cog": 120.1,
+        "heading": 120
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.588617,
+          14.317782
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9604081,
+      "name": "Ever Logic",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436130000,
+        "speed": 27.8,
+        "draft": 11.1,
+        "cog": 279.7,
+        "heading": 284
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -169.85457,
+          58.10675
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9595527,
+      "name": "Ever Liven",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436788000,
+        "speed": 0,
+        "draft": 14.2,
+        "cog": 233.7,
+        "heading": 30
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.284768,
+          2.918272
+        ]
+      }
+    }
+  }
+][
+  {
+    "info": {
+      "imo": 9604093,
+      "name": "Ever Legend",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701435930000,
+        "speed": 39.8,
+        "draft": 13.6,
+        "cog": 93.3,
+        "heading": 92
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.729408,
+          35.835397
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9604108,
+      "name": "Ever Learned",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437114000,
+        "speed": 36.3,
+        "draft": 12,
+        "cog": 140.1,
+        "heading": 141
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.844708,
+          42.477757
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9604110,
+      "name": "Ever Legion",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436589000,
+        "speed": 18.5,
+        "draft": 14,
+        "cog": 357.6,
+        "heading": 358
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.312435,
+          30.974813
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9629031,
+      "name": "Ever Living",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436987000,
+        "speed": 28,
+        "draft": 11.3,
+        "cog": 80.2,
+        "heading": 79
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.414508,
+          33.847437
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9629043,
+      "name": "Ever Linking",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437178000,
+        "speed": 32.2,
+        "draft": 14.5,
+        "cog": 266.3,
+        "heading": 264
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.175715,
+          -35.814092
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9604122,
+      "name": "Ever Lotus",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701396057000,
+        "speed": 28,
+        "draft": 11.6,
+        "cog": 104.5,
+        "heading": 105
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.06503,
+          35.9407
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9604134,
+      "name": "Ever Lively",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701429943000,
+        "speed": 27.8,
+        "draft": 10.5,
+        "cog": 151,
+        "heading": 150
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.959137,
+          9.537845
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9604146,
+      "name": "Ever Lenient",
+      "length": 335,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436631000,
+        "speed": 33.5,
+        "draft": 10,
+        "cog": 212.9,
+        "heading": 214
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.534382,
+          -32.614522
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9629067,
+      "name": "Ever Lucent",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701435287000,
+        "speed": 37.8,
+        "draft": 11.2,
+        "cog": 304.5,
+        "heading": 308
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.705985,
+          18.508267
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9604158,
+      "name": "Ever Loyal",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437146000,
+        "speed": 23.3,
+        "draft": 11.7,
+        "cog": 32,
+        "heading": 34
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.454007,
+          24.657702
+        ]
+      }
+    }
+  }
+][
+  {
+    "info": {
+      "imo": 9604160,
+      "name": "Ever Liberal",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437190000,
+        "speed": 0,
+        "draft": 10.3,
+        "cog": 273.3,
+        "heading": 70
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.210103,
+          -34.90222
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9629079,
+      "name": "Ever Lissome",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437130000,
+        "speed": 0,
+        "draft": 9.6,
+        "cog": 64.7,
+        "heading": 323
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.319068,
+          22.530662
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9604172,
+      "name": "Ever Lucky",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436863000,
+        "speed": 0.2,
+        "draft": 13.8,
+        "cog": 207.6,
+        "heading": 201
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.259725,
+          33.72637
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9629081,
+      "name": "Ever Loading",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436045000,
+        "speed": 0.6,
+        "draft": 9.1,
+        "cog": 181.4,
+        "heading": 263
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.223973,
+          -2.695058
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9629093,
+      "name": "Ever Lunar",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701226595000,
+        "speed": 28.2,
+        "draft": 10.1,
+        "cog": 286.7,
+        "heading": 288
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.727122,
+          16.920483
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9629108,
+      "name": "Ever Lyric",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436118000,
+        "speed": 33.2,
+        "draft": 12.1,
+        "cog": 286.6,
+        "heading": 287
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.989653,
+          -28.387865
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9629110,
+      "name": "Ever Lovely",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701435551000,
+        "speed": 29.3,
+        "draft": 11.5,
+        "cog": 268.7,
+        "heading": 267
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          156.2593,
+          30.594725
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9629122,
+      "name": "Ever Lifting",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436911000,
+        "speed": 0.2,
+        "draft": 9.6,
+        "cog": 352,
+        "heading": 304
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.004182,
+          35.826743
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9300386,
+      "name": "Ever Shine ",
+      "length": 300,
+      "width": 42.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436651000,
+        "speed": 0,
+        "draft": 13.3,
+        "cog": 329,
+        "heading": 90
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.37895,
+          47.2545
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9300398,
+      "name": "Ever Sigma ",
+      "length": 300,
+      "width": 42.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437074000,
+        "speed": 29.8,
+        "draft": 13.2,
+        "cog": 88,
+        "heading": 86
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.672683,
+          41.652233
+        ]
+      }
+    }
+  }
+][
+  {
+    "info": {
+      "imo": 9300403,
+      "name": "Ever Smart ",
+      "length": 300,
+      "width": 42.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701433946000,
+        "speed": 27.2,
+        "draft": 13.6,
+        "cog": 217,
+        "heading": 222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.67095,
+          52.524433
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9300415,
+      "name": "Ever Smile ",
+      "length": 300,
+      "width": 42.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701433968000,
+        "speed": 25,
+        "draft": 13.1,
+        "cog": 82,
+        "heading": 83
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.707917,
+          44.6417
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9300427,
+      "name": "Ever Superb",
+      "length": 300,
+      "width": 42.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701431078000,
+        "speed": 38.3,
+        "draft": 12.3,
+        "cog": 273,
+        "heading": 274
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -128.0147,
+          14.621133
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9300439,
+      "name": "Ever Steady",
+      "length": 300,
+      "width": 42.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436412000,
+        "speed": 25.4,
+        "draft": 13.6,
+        "cog": 87,
+        "heading": 87
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.130817,
+          45.09255
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9300441,
+      "name": "Ever Strong",
+      "length": 300,
+      "width": 42.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437108000,
+        "speed": 0,
+        "draft": 11.2,
+        "cog": 194,
+        "heading": 142
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.310883,
+          22.563783
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9300453,
+      "name": "Ever Summit",
+      "length": 300,
+      "width": 42.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437204000,
+        "speed": 0,
+        "draft": 12.5,
+        "cog": 331,
+        "heading": 39
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.400833,
+          34.649567
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9300465,
+      "name": "Ever Safety",
+      "length": 300,
+      "width": 42.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436150000,
+        "speed": 21.5,
+        "draft": 14,
+        "cog": 312,
+        "heading": 312
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -139.986633,
+          55.1634
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9300477,
+      "name": "Ever Salute",
+      "length": 300,
+      "width": 42.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437198000,
+        "speed": 0,
+        "draft": 10.5,
+        "cog": 299,
+        "heading": 142
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.931967,
+          30.063933
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9241310,
+      "name": "Ever Eagle ",
+      "length": 300,
+      "width": 42.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436923000,
+        "speed": 26.5,
+        "draft": 12.9,
+        "cog": 213.1,
+        "heading": 217
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.128315,
+          24.233018
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9241308,
+      "name": "Ever Envoy",
+      "length": 300,
+      "width": 42.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701425517000,
+        "speed": 31.5,
+        "draft": 13.4,
+        "cog": 330.8,
+        "heading": 330
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.181007,
+          8.665583
+        ]
+      }
+    }
+  }
+][
+  {
+    "info": {
+      "imo": 9241322,
+      "name": "Ever Excel ",
+      "length": 300,
+      "width": 42.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701207163000,
+        "speed": 24.6,
+        "draft": 10.1,
+        "cog": 155,
+        "heading": 154
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.956943,
+          6.151375
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9241281,
+      "name": "Ever Elite ",
+      "length": 300,
+      "width": 42.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701366770000,
+        "speed": 23.7,
+        "draft": 13,
+        "cog": 308.9,
+        "heading": 310
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.889645,
+          4.684903
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9241293,
+      "name": "Ever Ethic ",
+      "length": 300,
+      "width": 42.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701383148000,
+        "speed": 22.6,
+        "draft": 11.8,
+        "cog": 266.2,
+        "heading": 267
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.502925,
+          22.641382
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9786932,
+      "name": "Ever Bliss",
+      "length": 211,
+      "width": 32.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701258946000,
+        "speed": 25.6,
+        "draft": 11.2,
+        "cog": 218.3,
+        "heading": 222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.051433,
+          22.356165
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9786944,
+      "name": "Ever Balmy",
+      "length": 211,
+      "width": 32.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701386329000,
+        "speed": 25.6,
+        "draft": 10.1,
+        "cog": 353.2,
+        "heading": 351
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.313977,
+          -2.97767
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9786956,
+      "name": "Ever Birth",
+      "length": 211,
+      "width": 32.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436439000,
+        "speed": 0,
+        "draft": 11,
+        "cog": 171.8,
+        "heading": 222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.212985,
+          36.014348
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9786968,
+      "name": "Ever Basis",
+      "length": 211,
+      "width": 32.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701312696000,
+        "speed": 30.4,
+        "draft": 10.8,
+        "cog": 19.2,
+        "heading": 22
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.279213,
+          0.207178
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9786970,
+      "name": "Ital Bonny ",
+      "length": 211,
+      "width": 32
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437218000,
+        "speed": 0,
+        "draft": 10,
+        "cog": 16.7,
+        "heading": 347
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.588542,
+          37.956067
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9786982,
+      "name": "Ever Beady",
+      "length": 211,
+      "width": 32.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436787000,
+        "speed": 32.8,
+        "draft": 11,
+        "cog": 49.7,
+        "heading": 51
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.3161,
+          9.48128
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9784116,
+      "name": "Ever Brace",
+      "length": 211,
+      "width": 32.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701390166000,
+        "speed": 28.2,
+        "draft": 10.8,
+        "cog": 139.2,
+        "heading": 140
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.816892,
+          13.643305
+        ]
+      }
+    }
+  }
+][
+  {
+    "info": {
+      "imo": 9786994,
+      "name": "Ital Bonus ",
+      "length": 211,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437246000,
+        "speed": 0,
+        "draft": 8.2,
+        "cog": 200.3,
+        "heading": 299
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.24803,
+          45.452807
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9787003,
+      "name": "Ever Beamy",
+      "length": 211,
+      "width": 32.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436303000,
+        "speed": 0.4,
+        "draft": 10.6,
+        "cog": 345.6,
+        "heading": 344
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.545338,
+          1.362225
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9784128,
+      "name": "Ever Befit",
+      "length": 211,
+      "width": 32.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701165370000,
+        "speed": 26.3,
+        "draft": 8.7,
+        "cog": 20.2,
+        "heading": 27
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.428692,
+          25.98242
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9787015,
+      "name": "Ever Boomy",
+      "length": 211,
+      "width": 32.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701323628000,
+        "speed": 28,
+        "draft": 11.2,
+        "cog": 94.3,
+        "heading": 94
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.286187,
+          22.111245
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9787027,
+      "name": "Ever Bloom",
+      "length": 211,
+      "width": 32.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701427229000,
+        "speed": 33.9,
+        "draft": 10.6,
+        "cog": 186.1,
+        "heading": 187
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.068378,
+          0.903442
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9784130,
+      "name": "Ever Brave",
+      "length": 211,
+      "width": 32.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437262000,
+        "speed": 0,
+        "draft": 10.2,
+        "cog": 169.4,
+        "heading": 306
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.073783,
+          35.10401
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9784142,
+      "name": "Ever Being",
+      "length": 211,
+      "width": 32.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701362715000,
+        "speed": 27.6,
+        "draft": 8.9,
+        "cog": 229.7,
+        "heading": 234
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.027757,
+          28.526103
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9784154,
+      "name": "Ever Breed",
+      "length": 211,
+      "width": 32.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437135000,
+        "speed": 1.1,
+        "draft": 10.9,
+        "cog": 290.9,
+        "heading": 235
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.250342,
+          22.55951
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9790050,
+      "name": "Ever Board",
+      "length": 211,
+      "width": 32.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436969000,
+        "speed": 28.3,
+        "draft": 9,
+        "cog": 267.9,
+        "heading": 270
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.213325,
+          22.542462
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9790062,
+      "name": "Ever Build",
+      "length": 211,
+      "width": 32.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701396007000,
+        "speed": 34.3,
+        "draft": 10.6,
+        "cog": 247.3,
+        "heading": 247
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.114282,
+          13.700012
+        ]
+      }
+    }
+  }
+][
+  {
+    "info": {
+      "imo": 9790074,
+      "name": "Ever Bless",
+      "length": 211,
+      "width": 32.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437015000,
+        "speed": 29.4,
+        "draft": 10.1,
+        "cog": 69.1,
+        "heading": 75
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.829605,
+          31.265363
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9790086,
+      "name": "Ever Burly",
+      "length": 211,
+      "width": 32.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437223000,
+        "speed": 0.2,
+        "draft": 11.2,
+        "cog": 197.2,
+        "heading": 77
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.948658,
+          14.59995
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9790098,
+      "name": "Ever Blink",
+      "length": 211,
+      "width": 32.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436240000,
+        "speed": 0.2,
+        "draft": 9.5,
+        "cog": 79.8,
+        "heading": 323
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.966163,
+          35.892238
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9872377,
+      "name": "Ever Orient",
+      "length": 195,
+      "width": 32.3
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436998000,
+        "speed": 1.1,
+        "draft": 10,
+        "cog": 305.2,
+        "heading": 34
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.291835,
+          2.931095
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9872389,
+      "name": "Ever Ocean",
+      "length": 195,
+      "width": 32.3
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701386210000,
+        "speed": 32,
+        "draft": 10.3,
+        "cog": 0.3,
+        "heading": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.292522,
+          -2.992565
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9872391,
+      "name": "Ever Oasis",
+      "length": 195,
+      "width": 32.3
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437118000,
+        "speed": 0,
+        "draft": 9.2,
+        "cog": 344.2,
+        "heading": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.423265,
+          -6.937297
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9872406,
+      "name": "Ever Order",
+      "length": 195,
+      "width": 32.3
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437027000,
+        "speed": 0,
+        "draft": 9.4,
+        "cog": 23.6,
+        "heading": 270
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.619577,
+          1.253973
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9913860,
+      "name": "Ever Own",
+      "length": 195,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437146000,
+        "speed": 0,
+        "draft": 9.2,
+        "cog": 349.1,
+        "heading": 327
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.77831,
+          35.611768
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9913858,
+      "name": "Ever Oath",
+      "length": 195,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436577000,
+        "speed": 0.2,
+        "draft": 8.7,
+        "cog": 76.5,
+        "heading": 280
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.265712,
+          2.826133
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9913872,
+      "name": "Ever Opus",
+      "length": 195,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436611000,
+        "speed": 0,
+        "draft": 9.5,
+        "cog": 86.4,
+        "heading": 207
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.075402,
+          24.505777
+        ]
+      }
+    }
+  }
+][
+  {
+    "info": {
+      "imo": 9919462,
+      "name": "Ever Obey",
+      "length": 195,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436786000,
+        "speed": 0,
+        "draft": 9.9,
+        "cog": 138.1,
+        "heading": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.35674,
+          3.020903
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9913884,
+      "name": "Ever Outdo",
+      "length": 195,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701431209000,
+        "speed": 17.4,
+        "draft": 7.2,
+        "cog": 310.9,
+        "heading": 318
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.932523,
+          32.873503
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9919474,
+      "name": "Ever Optima",
+      "length": 195,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437270000,
+        "speed": 16.3,
+        "draft": 9.6,
+        "cog": 63.1,
+        "heading": 54
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.284328,
+          24.210682
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9913896,
+      "name": "Ever Onward",
+      "length": 195,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701419748000,
+        "speed": 10.9,
+        "draft": 8.4,
+        "cog": 333.4,
+        "heading": 325
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.275138,
+          -1.031667
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9904508,
+      "name": "Ever Create",
+      "length": 172.1,
+      "width": 27.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701365862000,
+        "speed": 21.5,
+        "draft": 9.2,
+        "cog": 351.6,
+        "heading": 355
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.938237,
+          38.96381
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9859923,
+      "name": "Green Celebrity",
+      "length": 172,
+      "width": 27.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436912000,
+        "speed": 30.9,
+        "draft": 8.8,
+        "cog": 224.1,
+        "heading": 222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.448313,
+          24.5181
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9859935,
+      "name": "Green Clarity",
+      "length": 172,
+      "width": 27.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701382786000,
+        "speed": 26.3,
+        "draft": 8.5,
+        "cog": 8.9,
+        "heading": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.600863,
+          1.586857
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9860532,
+      "name": "Green Celeste",
+      "length": 172,
+      "width": 28.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437277000,
+        "speed": 28,
+        "draft": 9.6,
+        "cog": 244.1,
+        "heading": 242
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.79927,
+          1.17614
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9869978,
+      "name": "Ever Cast",
+      "length": 172,
+      "width": 27.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701358706000,
+        "speed": 29.4,
+        "draft": 9.8,
+        "cog": 150.8,
+        "heading": 151
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.881155,
+          12.44162
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9866598,
+      "name": "Ever Calm",
+      "length": 172,
+      "width": 28.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436146000,
+        "speed": 33.2,
+        "draft": 7.3,
+        "cog": 235.2,
+        "heading": 233
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.68225,
+          9.406613
+        ]
+      }
+    }
+  }
+][
+  {
+    "info": {
+      "imo": 9875068,
+      "name": "Ever Cope",
+      "length": 172,
+      "width": 28.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436422000,
+        "speed": 0,
+        "draft": 10.2,
+        "cog": 41.3,
+        "heading": 19
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.87637,
+          13.138912
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9875070,
+      "name": "Ever Core",
+      "length": 172,
+      "width": 28.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701410361000,
+        "speed": 0,
+        "draft": 8.3,
+        "cog": 199.9,
+        "heading": 300
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.917913,
+          3.302493
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9869980,
+      "name": "Ever Chant",
+      "length": 172,
+      "width": 27.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701335794000,
+        "speed": 27,
+        "draft": 9.9,
+        "cog": 53.2,
+        "heading": 48
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.510633,
+          16.385607
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9869992,
+      "name": "Ever Charm",
+      "length": 172,
+      "width": 27.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701400954000,
+        "speed": 29.1,
+        "draft": 8.3,
+        "cog": 298.6,
+        "heading": 300
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.104892,
+          -4.281338
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9870006,
+      "name": "Ever Cheer",
+      "length": 172,
+      "width": 27.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436709000,
+        "speed": 15.6,
+        "draft": 8.2,
+        "cog": 318.6,
+        "heading": 321
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.46676,
+          32.70647
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9890874,
+      "name": "Ever Clear",
+      "length": 172,
+      "width": 28.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701406117000,
+        "speed": 30.7,
+        "draft": 9.4,
+        "cog": 337.2,
+        "heading": 333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.411295,
+          16.662488
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9890886,
+      "name": "Ever Crown",
+      "length": 172,
+      "width": 28.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436911000,
+        "speed": 2.8,
+        "draft": 6.9,
+        "cog": 145.5,
+        "heading": 66
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.211347,
+          22.415882
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9890898,
+      "name": "Ever Candid",
+      "length": 172,
+      "width": 28.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437242000,
+        "speed": 17.6,
+        "draft": 8.3,
+        "cog": 271.6,
+        "heading": 273
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.314533,
+          22.134998
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9886990,
+      "name": "Ever Center",
+      "length": 172,
+      "width": 27.5
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436958000,
+        "speed": 0,
+        "draft": 9.7,
+        "cog": 191.9,
+        "heading": 320
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.305623,
+          22.569728
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9887009,
+      "name": "Ever Chaste",
+      "length": 172,
+      "width": 27.5
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437019000,
+        "speed": 0,
+        "draft": 8.6,
+        "cog": 76.2,
+        "heading": 324
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.265487,
+          22.52216
+        ]
+      }
+    }
+  }
+][
+  {
+    "info": {
+      "imo": 9904510,
+      "name": "Ever Cozy",
+      "length": 172.1,
+      "width": 27.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437207000,
+        "speed": 0,
+        "draft": 8.8,
+        "cog": 4.4,
+        "heading": 298
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.64709,
+          43.190252
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9903243,
+      "name": "Ever Clever",
+      "length": 172,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437150000,
+        "speed": 0,
+        "draft": 9.6,
+        "cog": 187.2,
+        "heading": 321
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.31453,
+          22.55906
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9904522,
+      "name": "Ever Convey",
+      "length": 172.1,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436830000,
+        "speed": 28,
+        "draft": 9.1,
+        "cog": 129.8,
+        "heading": 131
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.013758,
+          35.88906
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9903255,
+      "name": "Ever Certain",
+      "length": 172,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437240000,
+        "speed": 2.8,
+        "draft": 8,
+        "cog": 164.6,
+        "heading": 266
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.099105,
+          22.579828
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9913810,
+      "name": "Ever Compose",
+      "length": 171.9,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701313904000,
+        "speed": 29.3,
+        "draft": 10.2,
+        "cog": 247.1,
+        "heading": 246
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.684105,
+          22.31771
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9904534,
+      "name": "Ever Career",
+      "length": 172.1,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701383136000,
+        "speed": 5,
+        "draft": 9.1,
+        "cog": 98.9,
+        "heading": 100
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.362192,
+          18.554743
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9903267,
+      "name": "Ever Command",
+      "length": 172,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436628000,
+        "speed": 0,
+        "draft": 7.3,
+        "cog": 265.8,
+        "heading": 244
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.390008,
+          25.163778
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9913822,
+      "name": "Ever Concise",
+      "length": 171.9,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701422935000,
+        "speed": 28.7,
+        "draft": 7.1,
+        "cog": 55.6,
+        "heading": 55
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.057833,
+          26.046213
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9913834,
+      "name": "Ever Concert",
+      "length": 171.9,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701384077000,
+        "speed": 31.1,
+        "draft": 8.7,
+        "cog": 215.2,
+        "heading": 217
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.45355,
+          33.789635
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9919589,
+      "name": "Ever Connect",
+      "length": 171.9,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701405039000,
+        "speed": 32.2,
+        "draft": 9.1,
+        "cog": 64.3,
+        "heading": 61
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.410227,
+          28.43322
+        ]
+      }
+    }
+  }
+][
+  {
+    "info": {
+      "imo": 9913846,
+      "name": "Ever Conform",
+      "length": 171.9,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701413302000,
+        "speed": 0,
+        "draft": 8.6,
+        "cog": 197.2,
+        "heading": 296
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.912958,
+          3.31608
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9919450,
+      "name": "Ever Consist",
+      "length": 171.9,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437234000,
+        "speed": 0,
+        "draft": 8.9,
+        "cog": 158.7,
+        "heading": 304
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.790407,
+          20.828423
+        ]
+      }
+    }
+  }
+][
+  {
+    "info": {
+      "imo": 9893890,
+      "name": "Ever Ace",
+      "length": 400,
+      "width": 61.5
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701434155000,
+        "speed": 28.7,
+        "draft": 14.5,
+        "cog": 151.8,
+        "heading": 153
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.646957,
+          25.13789
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9893905,
+      "name": "Ever Act",
+      "length": 400,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701409536000,
+        "speed": 21.5,
+        "draft": 13.8,
+        "cog": 152,
+        "heading": 152
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.965032,
+          4.419155
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9893917,
+      "name": "Ever Aim",
+      "length": 400,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436461000,
+        "speed": 32.6,
+        "draft": 13.9,
+        "cog": 94.9,
+        "heading": 96
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.307643,
+          37.734408
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9893929,
+      "name": "Ever Alp",
+      "length": 400,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436428000,
+        "speed": 0,
+        "draft": 14.8,
+        "cog": 160.4,
+        "heading": 244
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.383823,
+          25.160905
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9893931,
+      "name": "Ever Arm",
+      "length": 400,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701433959000,
+        "speed": 33.3,
+        "draft": 15.6,
+        "cog": 265.4,
+        "heading": 267
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.6611,
+          12.983823
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9893943,
+      "name": "Ever Art",
+      "length": 400,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436593000,
+        "speed": 36.9,
+        "draft": 16.6,
+        "cog": 287.6,
+        "heading": 286
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.353928,
+          33.900677
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9893955,
+      "name": "Ever Alot",
+      "length": 400,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436596000,
+        "speed": 0,
+        "draft": 12,
+        "cog": 335.7,
+        "heading": 222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.199045,
+          36.001568
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9893979,
+      "name": "Ever Apex",
+      "length": 400,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437145000,
+        "speed": 0.2,
+        "draft": 14.7,
+        "cog": 169.2,
+        "heading": 25
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.655958,
+          7.047957
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9811012,
+      "name": "Ever Golden",
+      "length": 400,
+      "width": 58.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701406291000,
+        "speed": 36.9,
+        "draft": 13.7,
+        "cog": 99.6,
+        "heading": 99
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.794377,
+          38.782477
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9810991,
+      "name": "Ever Goods",
+      "length": 400,
+      "width": 59
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701422696000,
+        "speed": 21.1,
+        "draft": 12.1,
+        "cog": 270.6,
+        "heading": 273
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.773855,
+          54.198977
+        ]
+      }
+    }
+  }
+][
+  {
+    "info": {
+      "imo": 9786815,
+      "name": "Ever Genius",
+      "length": 400,
+      "width": 58.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701433988000,
+        "speed": 32.8,
+        "draft": 14.4,
+        "cog": 292.1,
+        "heading": 297
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.506852,
+          12.165095
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9811000,
+      "name": "Ever Given",
+      "length": 400,
+      "width": 59
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436466000,
+        "speed": 20.6,
+        "draft": 15.9,
+        "cog": 74.2,
+        "heading": 71
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.424542,
+          50.237667
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9786827,
+      "name": "Ever Gifted",
+      "length": 399.8,
+      "width": 58.5
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701409732000,
+        "speed": 26.9,
+        "draft": 12.4,
+        "cog": 98.9,
+        "heading": 99
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          95.30288,
+          6.299645
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9820855,
+      "name": "Ever Grade",
+      "length": 400,
+      "width": 59
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436790000,
+        "speed": 0,
+        "draft": 7,
+        "cog": 318,
+        "heading": 345
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.11541,
+          29.78736
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9820922,
+      "name": "Ever Gentle",
+      "length": 400,
+      "width": 59
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701088130000,
+        "speed": 30.6,
+        "draft": 14.4,
+        "cog": 172.3,
+        "heading": 171
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.537875,
+          22.110878
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9786839,
+      "name": "Ever Glory",
+      "length": 400,
+      "width": 58.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437253000,
+        "speed": 0.2,
+        "draft": 12,
+        "cog": 337.3,
+        "heading": 289
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.034857,
+          51.974218
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9832717,
+      "name": "Ever Govern",
+      "length": 400,
+      "width": 59
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437109000,
+        "speed": 35.9,
+        "draft": 14.2,
+        "cog": 254.2,
+        "heading": 255
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          22.698892,
+          36.346065
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9786841,
+      "name": "Ever Globe",
+      "length": 400,
+      "width": 58.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701421511000,
+        "speed": 35.2,
+        "draft": 12.6,
+        "cog": 50.5,
+        "heading": 52
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.584698,
+          1.518497
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9832729,
+      "name": "Ever Greet",
+      "length": 400,
+      "width": 59
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701248021000,
+        "speed": 24.1,
+        "draft": 15.8,
+        "cog": 190.9,
+        "heading": 192
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.199455,
+          12.76313
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9665592,
+      "name": "Thalassa Hellas",
+      "length": 368.5,
+      "width": 51
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701420258000,
+        "speed": 33.2,
+        "draft": 13.8,
+        "cog": 285.5,
+        "heading": 285
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.579547,
+          10.344462
+        ]
+      }
+    }
+  }
+][
+  {
+    "info": {
+      "imo": 9665607,
+      "name": "Thalassa Patris",
+      "length": 368.5,
+      "width": 51
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437154000,
+        "speed": 23.5,
+        "draft": 9.3,
+        "cog": 124.9,
+        "heading": 122
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.782755,
+          30.442652
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9665619,
+      "name": "Ever Top ",
+      "length": 368.5,
+      "width": 51
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1700778990000,
+        "speed": 0.6,
+        "draft": 8.5,
+        "cog": 36.4,
+        "heading": 511
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.46176,
+          31.588202
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9665621,
+      "name": "Thalassa Elpida",
+      "length": 368.5,
+      "width": 51
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437319000,
+        "speed": 27.4,
+        "draft": 10.7,
+        "cog": 317.6,
+        "heading": 315
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.761382,
+          18.149835
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9665633,
+      "name": "Thalassa Avra",
+      "length": 368.5,
+      "width": 51
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701429095000,
+        "speed": 0.2,
+        "draft": 13.6,
+        "cog": 274.7,
+        "heading": 226
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.014657,
+          29.777368
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9665645,
+      "name": "Thalassa Niki",
+      "length": 368.5,
+      "width": 51
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701421974000,
+        "speed": 21.1,
+        "draft": 10.6,
+        "cog": 152.9,
+        "heading": 154
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.782888,
+          25.59231
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9667150,
+      "name": "Thalassa Mana",
+      "length": 368.5,
+      "width": 51
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701434117000,
+        "speed": 34.1,
+        "draft": 15.7,
+        "cog": 256.3,
+        "heading": 256
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.592415,
+          12.478067
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9667162,
+      "name": "Thalassa Tyhi",
+      "length": 368.4,
+      "width": 51
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437201000,
+        "speed": 11.9,
+        "draft": 11.5,
+        "cog": 89.4,
+        "heading": 89
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.64622,
+          1.202033
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9667174,
+      "name": "Thalassa Doxa",
+      "length": 368.5,
+      "width": 51
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701434020000,
+        "speed": 33,
+        "draft": 14.5,
+        "cog": 149.7,
+        "heading": 147
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.194922,
+          24.08913
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9667186,
+      "name": "Thalassa Axia",
+      "length": 368.4,
+      "width": 51
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436996000,
+        "speed": 33,
+        "draft": 12.9,
+        "cog": 102,
+        "heading": 102
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.689392,
+          38.307795
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9728916,
+      "name": "Triton",
+      "length": 369,
+      "width": 51
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701428215000,
+        "speed": 34.8,
+        "draft": 13.9,
+        "cog": 28.3,
+        "heading": 31
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.15829,
+          16.220505
+        ]
+      }
+    }
+  }
+][
+  {
+    "info": {
+      "imo": 9728928,
+      "name": "Titan",
+      "length": 369,
+      "width": 51
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701393277000,
+        "speed": 0.7,
+        "draft": 13.2,
+        "cog": 223.3,
+        "heading": 321
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.287208,
+          22.569533
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9728930,
+      "name": "Talos",
+      "length": 369,
+      "width": 51
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437158000,
+        "speed": 0.7,
+        "draft": 13.4,
+        "cog": 341.5,
+        "heading": 23
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.843625,
+          9.446858
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9728942,
+      "name": "Taurus",
+      "length": 369,
+      "width": 51
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701427895000,
+        "speed": 29.1,
+        "draft": 11.8,
+        "cog": 108.3,
+        "heading": 107
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          63.805665,
+          11.222278
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9728954,
+      "name": "Theseus",
+      "length": 369,
+      "width": 51
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437176000,
+        "speed": 36.5,
+        "draft": 14.6,
+        "cog": 228.4,
+        "heading": 229
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.939888,
+          24.954878
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9737462,
+      "name": "Tampa Triumph",
+      "length": 366,
+      "width": 51.2
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701434602000,
+        "speed": 35.9,
+        "draft": 15,
+        "cog": 231.4,
+        "heading": 231
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          89.633342,
+          1.165213
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9737474,
+      "name": "Tokyo Triumph",
+      "length": 366,
+      "width": 51.2
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437259000,
+        "speed": 21.7,
+        "draft": 10.3,
+        "cog": 110.9,
+        "heading": 105
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.107573,
+          22.552165
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9737486,
+      "name": "Toledo Triumph",
+      "length": 366,
+      "width": 51.2
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701435303000,
+        "speed": 22.2,
+        "draft": 14.7,
+        "cog": 118.5,
+        "heading": 118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.78656,
+          16.524387
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9737498,
+      "name": "Taipei Triumph",
+      "length": 366,
+      "width": 51.2
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436167000,
+        "speed": 35,
+        "draft": 14.3,
+        "cog": 109.8,
+        "heading": 109
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -133.089538,
+          30.379912
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9737503,
+      "name": "Texas Triumph",
+      "length": 365.9,
+      "width": 51.2
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437188000,
+        "speed": 0,
+        "draft": 11.8,
+        "cog": 131.9,
+        "heading": 174
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.14254,
+          32.134387
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9850525,
+      "name": "Ever Faith",
+      "length": 334,
+      "width": 48.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701434925000,
+        "speed": 37.4,
+        "draft": 15.2,
+        "cog": 128.9,
+        "heading": 128
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.295253,
+          29.21202
+        ]
+      }
+    }
+  }
+][
+  {
+    "info": {
+      "imo": 9850537,
+      "name": "Ever Focus",
+      "length": 334,
+      "width": 48.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437181000,
+        "speed": 0,
+        "draft": 11.9,
+        "cog": 79.9,
+        "heading": 511
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.183105,
+          33.762172
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9850549,
+      "name": "Ever Front",
+      "length": 334,
+      "width": 48.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437094000,
+        "speed": 0,
+        "draft": 10,
+        "cog": 189.4,
+        "heading": 322
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.306953,
+          22.568122
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9850551,
+      "name": "Ever Forward",
+      "length": 334,
+      "width": 48.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436995000,
+        "speed": 24.6,
+        "draft": 12.7,
+        "cog": 303.8,
+        "heading": 305
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.11343,
+          30.588432
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9850563,
+      "name": "Ever Fortune",
+      "length": 334,
+      "width": 48.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437034000,
+        "speed": 18.9,
+        "draft": 11.2,
+        "cog": 282.5,
+        "heading": 285
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.031528,
+          34.246488
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9850862,
+      "name": "Ever Far",
+      "length": 333.9,
+      "width": 48.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437236000,
+        "speed": 26.9,
+        "draft": 11.9,
+        "cog": 23.4,
+        "heading": 25
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.375393,
+          -24.246495
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9850575,
+      "name": "Ever Forever",
+      "length": 334,
+      "width": 48.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437307000,
+        "speed": 5.9,
+        "draft": 11.6,
+        "cog": 80.9,
+        "heading": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -125.20248,
+          48.149867
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9850795,
+      "name": "Ever Fit",
+      "length": 334,
+      "width": 48.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437219000,
+        "speed": 27,
+        "draft": 11.8,
+        "cog": 163.7,
+        "heading": 159
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.31113,
+          26.870422
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9850874,
+      "name": "Ever Fast",
+      "length": 334,
+      "width": 48.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701434087000,
+        "speed": 23.7,
+        "draft": 14.7,
+        "cog": 88.6,
+        "heading": 90
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.169425,
+          6.897962
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9850587,
+      "name": "Ever Frank",
+      "length": 334,
+      "width": 48.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701427246000,
+        "speed": 33,
+        "draft": 12.7,
+        "cog": 102.9,
+        "heading": 102
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -16.042748,
+          37.862578
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9850800,
+      "name": "Ever Fame",
+      "length": 334,
+      "width": 48.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701435639000,
+        "speed": 36.9,
+        "draft": 15,
+        "cog": 136,
+        "heading": 137
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          161.549,
+          39.56393
+        ]
+      }
+    }
+  }
+][
+  {
+    "info": {
+      "imo": 9850886,
+      "name": "Ever Fair",
+      "length": 334,
+      "width": 48.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701430048000,
+        "speed": 36.7,
+        "draft": 13.8,
+        "cog": 216.8,
+        "heading": 217
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          157.002903,
+          49.93115
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9850599,
+      "name": "Ever Future",
+      "length": 334,
+      "width": 48.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701408269000,
+        "speed": 33.5,
+        "draft": 10.3,
+        "cog": 188.5,
+        "heading": 190
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.100712,
+          21.974878
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9850898,
+      "name": "Ever Feat",
+      "length": 334,
+      "width": 48.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436199000,
+        "speed": 29.6,
+        "draft": 13.6,
+        "cog": 335.7,
+        "heading": 331
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -132.532673,
+          52.048887
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9850812,
+      "name": "Ever Fine",
+      "length": 334,
+      "width": 48.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701435108000,
+        "speed": 38.9,
+        "draft": 12.4,
+        "cog": 345.7,
+        "heading": 347
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5224,
+          27.023523
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9850824,
+      "name": "Ever Fore",
+      "length": 334,
+      "width": 48.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437176000,
+        "speed": 0,
+        "draft": 13.4,
+        "cog": 153.2,
+        "heading": 326
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.890668,
+          9.375215
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9850836,
+      "name": "Ever Fashion",
+      "length": 334,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436369000,
+        "speed": 35,
+        "draft": 13.3,
+        "cog": 98.3,
+        "heading": 98
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -143.082508,
+          39.333955
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9850848,
+      "name": "Ever Fond",
+      "length": 334,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701435348000,
+        "speed": 30.6,
+        "draft": 12.7,
+        "cog": 291.5,
+        "heading": 290
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -141.081258,
+          -23.081607
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9850850,
+      "name": "Ever Favor",
+      "length": 334,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701355050000,
+        "speed": 40.2,
+        "draft": 9.2,
+        "cog": 62.3,
+        "heading": 61
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.58995,
+          1.46396
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9850903,
+      "name": "Ever Full",
+      "length": 334,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701430824000,
+        "speed": 36.5,
+        "draft": 13.7,
+        "cog": 54.8,
+        "heading": 59
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.769265,
+          36.096345
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9595436,
+      "name": "Ever Lambent",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701430817000,
+        "speed": 26.5,
+        "draft": 14.2,
+        "cog": 63.7,
+        "heading": 54
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.740223,
+          36.009728
+        ]
+      }
+    }
+  }
+][
+  {
+    "info": {
+      "imo": 9595448,
+      "name": "Ever Laden",
+      "length": 335,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701435099000,
+        "speed": 28.3,
+        "draft": 14,
+        "cog": 105.9,
+        "heading": 104
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.44981,
+          24.552772
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9595450,
+      "name": "Ever Lasting",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436415000,
+        "speed": 26.9,
+        "draft": 10.9,
+        "cog": 258.2,
+        "heading": 262
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.758003,
+          37.284275
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9595462,
+      "name": "Ever Leading",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436861000,
+        "speed": 0,
+        "draft": 10.2,
+        "cog": 139.2,
+        "heading": 223
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.204315,
+          36.006532
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9595474,
+      "name": "Ever Laurel",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701422779000,
+        "speed": 24.1,
+        "draft": 14,
+        "cog": 130.5,
+        "heading": 130
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.306018,
+          29.752777
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9595486,
+      "name": "Ever Libra",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436996000,
+        "speed": 0,
+        "draft": 11.7,
+        "cog": 142.1,
+        "heading": 132
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.087632,
+          3.902658
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9595498,
+      "name": "Ever Lawful",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436172000,
+        "speed": 30.7,
+        "draft": 13,
+        "cog": 164.1,
+        "heading": 164
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.694742,
+          -14.63148
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9595503,
+      "name": "Ever Leader",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701413245000,
+        "speed": 33.5,
+        "draft": 12.6,
+        "cog": 191.1,
+        "heading": 190
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          109.769412,
+          11.609423
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9595515,
+      "name": "Ever Legacy",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437287000,
+        "speed": 24.6,
+        "draft": 11.7,
+        "cog": 119.1,
+        "heading": 115
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.469078,
+          14.25456
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9604081,
+      "name": "Ever Logic",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436130000,
+        "speed": 27.8,
+        "draft": 11.1,
+        "cog": 279.7,
+        "heading": 284
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -169.85457,
+          58.10675
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9595527,
+      "name": "Ever Liven",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436788000,
+        "speed": 0,
+        "draft": 14.2,
+        "cog": 233.7,
+        "heading": 30
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.284768,
+          2.918272
+        ]
+      }
+    }
+  }
+][
+  {
+    "info": {
+      "imo": 9604093,
+      "name": "Ever Legend",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701435930000,
+        "speed": 39.8,
+        "draft": 13.6,
+        "cog": 93.3,
+        "heading": 92
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          177.729408,
+          35.835397
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9604108,
+      "name": "Ever Learned",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437309000,
+        "speed": 36.5,
+        "draft": 12,
+        "cog": 140,
+        "heading": 140
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          15.860248,
+          42.463945
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9604110,
+      "name": "Ever Legion",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436589000,
+        "speed": 18.5,
+        "draft": 14,
+        "cog": 357.6,
+        "heading": 358
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          32.312435,
+          30.974813
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9629031,
+      "name": "Ever Living",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436987000,
+        "speed": 28,
+        "draft": 11.3,
+        "cog": 80.2,
+        "heading": 79
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.414508,
+          33.847437
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9629043,
+      "name": "Ever Linking",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437178000,
+        "speed": 32.2,
+        "draft": 14.5,
+        "cog": 266.3,
+        "heading": 264
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.175715,
+          -35.814092
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9604122,
+      "name": "Ever Lotus",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701396057000,
+        "speed": 28,
+        "draft": 11.6,
+        "cog": 104.5,
+        "heading": 105
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.06503,
+          35.9407
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9604134,
+      "name": "Ever Lively",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701429943000,
+        "speed": 27.8,
+        "draft": 10.5,
+        "cog": 151,
+        "heading": 150
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.959137,
+          9.537845
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9604146,
+      "name": "Ever Lenient",
+      "length": 335,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436631000,
+        "speed": 33.5,
+        "draft": 10,
+        "cog": 212.9,
+        "heading": 214
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.534382,
+          -32.614522
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9629067,
+      "name": "Ever Lucent",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701435287000,
+        "speed": 37.8,
+        "draft": 11.2,
+        "cog": 304.5,
+        "heading": 308
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.705985,
+          18.508267
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9604158,
+      "name": "Ever Loyal",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437146000,
+        "speed": 23.3,
+        "draft": 11.7,
+        "cog": 32,
+        "heading": 34
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.454007,
+          24.657702
+        ]
+      }
+    }
+  }
+][
+  {
+    "info": {
+      "imo": 9604160,
+      "name": "Ever Liberal",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437190000,
+        "speed": 0,
+        "draft": 10.3,
+        "cog": 273.3,
+        "heading": 70
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.210103,
+          -34.90222
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9629079,
+      "name": "Ever Lissome",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437130000,
+        "speed": 0,
+        "draft": 9.6,
+        "cog": 64.7,
+        "heading": 323
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.319068,
+          22.530662
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9604172,
+      "name": "Ever Lucky",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436863000,
+        "speed": 0.2,
+        "draft": 13.8,
+        "cog": 207.6,
+        "heading": 201
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.259725,
+          33.72637
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9629081,
+      "name": "Ever Loading",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437307000,
+        "speed": 0.4,
+        "draft": 9.1,
+        "cog": 229.4,
+        "heading": 312
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.224472,
+          -2.696625
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9629093,
+      "name": "Ever Lunar",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701226595000,
+        "speed": 28.2,
+        "draft": 10.1,
+        "cog": 286.7,
+        "heading": 288
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          130.727122,
+          16.920483
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9629108,
+      "name": "Ever Lyric",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436118000,
+        "speed": 33.2,
+        "draft": 12.1,
+        "cog": 286.6,
+        "heading": 287
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.989653,
+          -28.387865
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9629110,
+      "name": "Ever Lovely",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701435551000,
+        "speed": 29.3,
+        "draft": 11.5,
+        "cog": 268.7,
+        "heading": 267
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          156.2593,
+          30.594725
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9629122,
+      "name": "Ever Lifting",
+      "length": 334.8,
+      "width": 45.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436911000,
+        "speed": 0.2,
+        "draft": 9.6,
+        "cog": 352,
+        "heading": 304
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.004182,
+          35.826743
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9300386,
+      "name": "Ever Shine ",
+      "length": 300,
+      "width": 42.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436651000,
+        "speed": 0,
+        "draft": 13.3,
+        "cog": 329,
+        "heading": 90
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.37895,
+          47.2545
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9300398,
+      "name": "Ever Sigma ",
+      "length": 300,
+      "width": 42.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437074000,
+        "speed": 29.8,
+        "draft": 13.2,
+        "cog": 88,
+        "heading": 86
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.672683,
+          41.652233
+        ]
+      }
+    }
+  }
+][
+  {
+    "info": {
+      "imo": 9300403,
+      "name": "Ever Smart ",
+      "length": 300,
+      "width": 42.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701433946000,
+        "speed": 27.2,
+        "draft": 13.6,
+        "cog": 217,
+        "heading": 222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          160.67095,
+          52.524433
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9300415,
+      "name": "Ever Smile ",
+      "length": 300,
+      "width": 42.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701433968000,
+        "speed": 25,
+        "draft": 13.1,
+        "cog": 82,
+        "heading": 83
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          153.707917,
+          44.6417
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9300427,
+      "name": "Ever Superb",
+      "length": 300,
+      "width": 42.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701431078000,
+        "speed": 38.3,
+        "draft": 12.3,
+        "cog": 273,
+        "heading": 274
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -128.0147,
+          14.621133
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9300439,
+      "name": "Ever Steady",
+      "length": 300,
+      "width": 42.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436412000,
+        "speed": 25.4,
+        "draft": 13.6,
+        "cog": 87,
+        "heading": 87
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.130817,
+          45.09255
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9300441,
+      "name": "Ever Strong",
+      "length": 300,
+      "width": 42.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437288000,
+        "speed": 0,
+        "draft": 11.2,
+        "cog": 164,
+        "heading": 142
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.310883,
+          22.563817
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9300453,
+      "name": "Ever Summit",
+      "length": 300,
+      "width": 42.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437204000,
+        "speed": 0,
+        "draft": 12.5,
+        "cog": 331,
+        "heading": 39
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          135.400833,
+          34.649567
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9300465,
+      "name": "Ever Safety",
+      "length": 300,
+      "width": 42.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436150000,
+        "speed": 21.5,
+        "draft": 14,
+        "cog": 312,
+        "heading": 312
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -139.986633,
+          55.1634
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9300477,
+      "name": "Ever Salute",
+      "length": 300,
+      "width": 42.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437198000,
+        "speed": 0,
+        "draft": 10.5,
+        "cog": 299,
+        "heading": 142
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.931967,
+          30.063933
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9241310,
+      "name": "Ever Eagle ",
+      "length": 300,
+      "width": 42.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436923000,
+        "speed": 26.5,
+        "draft": 12.9,
+        "cog": 213.1,
+        "heading": 217
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.128315,
+          24.233018
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9241308,
+      "name": "Ever Envoy",
+      "length": 300,
+      "width": 42.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701425517000,
+        "speed": 31.5,
+        "draft": 13.4,
+        "cog": 330.8,
+        "heading": 330
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.181007,
+          8.665583
+        ]
+      }
+    }
+  }
+][
+  {
+    "info": {
+      "imo": 9241322,
+      "name": "Ever Excel ",
+      "length": 300,
+      "width": 42.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701207163000,
+        "speed": 24.6,
+        "draft": 10.1,
+        "cog": 155,
+        "heading": 154
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.956943,
+          6.151375
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9241281,
+      "name": "Ever Elite ",
+      "length": 300,
+      "width": 42.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701366770000,
+        "speed": 23.7,
+        "draft": 13,
+        "cog": 308.9,
+        "heading": 310
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          98.889645,
+          4.684903
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9241293,
+      "name": "Ever Ethic ",
+      "length": 300,
+      "width": 42.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701383148000,
+        "speed": 22.6,
+        "draft": 11.8,
+        "cog": 266.2,
+        "heading": 267
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.502925,
+          22.641382
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9786932,
+      "name": "Ever Bliss",
+      "length": 211,
+      "width": 32.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701258946000,
+        "speed": 25.6,
+        "draft": 11.2,
+        "cog": 218.3,
+        "heading": 222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.051433,
+          22.356165
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9786944,
+      "name": "Ever Balmy",
+      "length": 211,
+      "width": 32.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701386329000,
+        "speed": 25.6,
+        "draft": 10.1,
+        "cog": 353.2,
+        "heading": 351
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.313977,
+          -2.97767
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9786956,
+      "name": "Ever Birth",
+      "length": 211,
+      "width": 32.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436439000,
+        "speed": 0,
+        "draft": 11,
+        "cog": 171.8,
+        "heading": 222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.212985,
+          36.014348
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9786968,
+      "name": "Ever Basis",
+      "length": 211,
+      "width": 32.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701312696000,
+        "speed": 30.4,
+        "draft": 10.8,
+        "cog": 19.2,
+        "heading": 22
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.279213,
+          0.207178
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9786970,
+      "name": "Ital Bonny ",
+      "length": 211,
+      "width": 32
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437218000,
+        "speed": 0,
+        "draft": 10,
+        "cog": 16.7,
+        "heading": 347
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          23.588542,
+          37.956067
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9786982,
+      "name": "Ever Beady",
+      "length": 211,
+      "width": 32.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436787000,
+        "speed": 32.8,
+        "draft": 11,
+        "cog": 49.7,
+        "heading": 51
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.3161,
+          9.48128
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9784116,
+      "name": "Ever Brace",
+      "length": 211,
+      "width": 32.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701390166000,
+        "speed": 28.2,
+        "draft": 10.8,
+        "cog": 139.2,
+        "heading": 140
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.816892,
+          13.643305
+        ]
+      }
+    }
+  }
+][
+  {
+    "info": {
+      "imo": 9786994,
+      "name": "Ital Bonus ",
+      "length": 211,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437246000,
+        "speed": 0,
+        "draft": 8.2,
+        "cog": 200.3,
+        "heading": 299
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.24803,
+          45.452807
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9787003,
+      "name": "Ever Beamy",
+      "length": 211,
+      "width": 32.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436303000,
+        "speed": 0.4,
+        "draft": 10.6,
+        "cog": 345.6,
+        "heading": 344
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.545338,
+          1.362225
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9784128,
+      "name": "Ever Befit",
+      "length": 211,
+      "width": 32.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701165370000,
+        "speed": 26.3,
+        "draft": 8.7,
+        "cog": 20.2,
+        "heading": 27
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.428692,
+          25.98242
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9787015,
+      "name": "Ever Boomy",
+      "length": 211,
+      "width": 32.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701323628000,
+        "speed": 28,
+        "draft": 11.2,
+        "cog": 94.3,
+        "heading": 94
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.286187,
+          22.111245
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9787027,
+      "name": "Ever Bloom",
+      "length": 211,
+      "width": 32.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701427229000,
+        "speed": 33.9,
+        "draft": 10.6,
+        "cog": 186.1,
+        "heading": 187
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.068378,
+          0.903442
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9784130,
+      "name": "Ever Brave",
+      "length": 211,
+      "width": 32.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437262000,
+        "speed": 0,
+        "draft": 10.2,
+        "cog": 169.4,
+        "heading": 306
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.073783,
+          35.10401
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9784142,
+      "name": "Ever Being",
+      "length": 211,
+      "width": 32.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701362715000,
+        "speed": 27.6,
+        "draft": 8.9,
+        "cog": 229.7,
+        "heading": 234
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          129.027757,
+          28.526103
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9784154,
+      "name": "Ever Breed",
+      "length": 211,
+      "width": 32.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437135000,
+        "speed": 1.1,
+        "draft": 10.9,
+        "cog": 290.9,
+        "heading": 235
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.250342,
+          22.55951
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9790050,
+      "name": "Ever Board",
+      "length": 211,
+      "width": 32.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436969000,
+        "speed": 28.3,
+        "draft": 9,
+        "cog": 267.9,
+        "heading": 270
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.213325,
+          22.542462
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9790062,
+      "name": "Ever Build",
+      "length": 211,
+      "width": 32.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701396007000,
+        "speed": 34.3,
+        "draft": 10.6,
+        "cog": 247.3,
+        "heading": 247
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.114282,
+          13.700012
+        ]
+      }
+    }
+  }
+][
+  {
+    "info": {
+      "imo": 9790074,
+      "name": "Ever Bless",
+      "length": 211,
+      "width": 32.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437015000,
+        "speed": 29.4,
+        "draft": 10.1,
+        "cog": 69.1,
+        "heading": 75
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.829605,
+          31.265363
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9790086,
+      "name": "Ever Burly",
+      "length": 211,
+      "width": 32.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437223000,
+        "speed": 0.2,
+        "draft": 11.2,
+        "cog": 197.2,
+        "heading": 77
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.948658,
+          14.59995
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9790098,
+      "name": "Ever Blink",
+      "length": 211,
+      "width": 32.8
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437320000,
+        "speed": 0.2,
+        "draft": 9.5,
+        "cog": 52,
+        "heading": 312
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.966552,
+          35.892512
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9872377,
+      "name": "Ever Orient",
+      "length": 195,
+      "width": 32.3
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436998000,
+        "speed": 1.1,
+        "draft": 10,
+        "cog": 305.2,
+        "heading": 34
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.291835,
+          2.931095
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9872389,
+      "name": "Ever Ocean",
+      "length": 195,
+      "width": 32.3
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701386210000,
+        "speed": 32,
+        "draft": 10.3,
+        "cog": 0.3,
+        "heading": 0
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          107.292522,
+          -2.992565
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9872391,
+      "name": "Ever Oasis",
+      "length": 195,
+      "width": 32.3
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437118000,
+        "speed": 0,
+        "draft": 9.2,
+        "cog": 344.2,
+        "heading": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.423265,
+          -6.937297
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9872406,
+      "name": "Ever Order",
+      "length": 195,
+      "width": 32.3
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437027000,
+        "speed": 0,
+        "draft": 9.4,
+        "cog": 23.6,
+        "heading": 270
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.619577,
+          1.253973
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9913860,
+      "name": "Ever Own",
+      "length": 195,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437325000,
+        "speed": 0,
+        "draft": 9.2,
+        "cog": 349.1,
+        "heading": 327
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.778287,
+          35.611775
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9913858,
+      "name": "Ever Oath",
+      "length": 195,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436577000,
+        "speed": 0.2,
+        "draft": 8.7,
+        "cog": 76.5,
+        "heading": 280
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.265712,
+          2.826133
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9913872,
+      "name": "Ever Opus",
+      "length": 195,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437333000,
+        "speed": 0,
+        "draft": 9.5,
+        "cog": 86.4,
+        "heading": 207
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          118.075447,
+          24.505728
+        ]
+      }
+    }
+  }
+][
+  {
+    "info": {
+      "imo": 9919462,
+      "name": "Ever Obey",
+      "length": 195,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436786000,
+        "speed": 0,
+        "draft": 9.9,
+        "cog": 138.1,
+        "heading": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.35674,
+          3.020903
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9913884,
+      "name": "Ever Outdo",
+      "length": 195,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701431209000,
+        "speed": 17.4,
+        "draft": 7.2,
+        "cog": 310.9,
+        "heading": 318
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.932523,
+          32.873503
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9919474,
+      "name": "Ever Optima",
+      "length": 195,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437270000,
+        "speed": 16.3,
+        "draft": 9.6,
+        "cog": 63.1,
+        "heading": 54
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.284328,
+          24.210682
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9913896,
+      "name": "Ever Onward",
+      "length": 195,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701419748000,
+        "speed": 10.9,
+        "draft": 8.4,
+        "cog": 333.4,
+        "heading": 325
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.275138,
+          -1.031667
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9904508,
+      "name": "Ever Create",
+      "length": 172.1,
+      "width": 27.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701365862000,
+        "speed": 21.5,
+        "draft": 9.2,
+        "cog": 351.6,
+        "heading": 355
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.938237,
+          38.96381
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9859923,
+      "name": "Green Celebrity",
+      "length": 172,
+      "width": 27.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436912000,
+        "speed": 30.9,
+        "draft": 8.8,
+        "cog": 224.1,
+        "heading": 222
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.448313,
+          24.5181
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9859935,
+      "name": "Green Clarity",
+      "length": 172,
+      "width": 27.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701382786000,
+        "speed": 26.3,
+        "draft": 8.5,
+        "cog": 8.9,
+        "heading": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          104.600863,
+          1.586857
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9860532,
+      "name": "Green Celeste",
+      "length": 172,
+      "width": 28.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437277000,
+        "speed": 28,
+        "draft": 9.6,
+        "cog": 244.1,
+        "heading": 242
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          103.79927,
+          1.17614
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9869978,
+      "name": "Ever Cast",
+      "length": 172,
+      "width": 27.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701358706000,
+        "speed": 29.4,
+        "draft": 9.8,
+        "cog": 150.8,
+        "heading": 151
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.881155,
+          12.44162
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9866598,
+      "name": "Ever Calm",
+      "length": 172,
+      "width": 28.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436146000,
+        "speed": 33.2,
+        "draft": 7.3,
+        "cog": 235.2,
+        "heading": 233
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.68225,
+          9.406613
+        ]
+      }
+    }
+  }
+][
+  {
+    "info": {
+      "imo": 9875068,
+      "name": "Ever Cope",
+      "length": 172,
+      "width": 28.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437325000,
+        "speed": 0,
+        "draft": 10.2,
+        "cog": 41.3,
+        "heading": 19
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.876358,
+          13.138885
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9875070,
+      "name": "Ever Core",
+      "length": 172,
+      "width": 28.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701410361000,
+        "speed": 0,
+        "draft": 8.3,
+        "cog": 199.9,
+        "heading": 300
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.917913,
+          3.302493
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9869980,
+      "name": "Ever Chant",
+      "length": 172,
+      "width": 27.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701335794000,
+        "speed": 27,
+        "draft": 9.9,
+        "cog": 53.2,
+        "heading": 48
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.510633,
+          16.385607
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9869992,
+      "name": "Ever Charm",
+      "length": 172,
+      "width": 27.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701400954000,
+        "speed": 29.1,
+        "draft": 8.3,
+        "cog": 298.6,
+        "heading": 300
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          110.104892,
+          -4.281338
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9870006,
+      "name": "Ever Cheer",
+      "length": 172,
+      "width": 27.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436709000,
+        "speed": 15.6,
+        "draft": 8.2,
+        "cog": 318.6,
+        "heading": 321
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          132.46676,
+          32.70647
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9890874,
+      "name": "Ever Clear",
+      "length": 172,
+      "width": 28.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701406117000,
+        "speed": 30.7,
+        "draft": 9.4,
+        "cog": 337.2,
+        "heading": 333
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          108.411295,
+          16.662488
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9890886,
+      "name": "Ever Crown",
+      "length": 172,
+      "width": 28.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436911000,
+        "speed": 2.8,
+        "draft": 6.9,
+        "cog": 145.5,
+        "heading": 66
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.211347,
+          22.415882
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9890898,
+      "name": "Ever Candid",
+      "length": 172,
+      "width": 28.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437242000,
+        "speed": 17.6,
+        "draft": 8.3,
+        "cog": 271.6,
+        "heading": 273
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          114.314533,
+          22.134998
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9886990,
+      "name": "Ever Center",
+      "length": 172,
+      "width": 27.5
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436958000,
+        "speed": 0,
+        "draft": 9.7,
+        "cog": 191.9,
+        "heading": 320
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.305623,
+          22.569728
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9887009,
+      "name": "Ever Chaste",
+      "length": 172,
+      "width": 27.5
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437019000,
+        "speed": 0,
+        "draft": 8.6,
+        "cog": 76.2,
+        "heading": 324
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.265487,
+          22.52216
+        ]
+      }
+    }
+  }
+][
+  {
+    "info": {
+      "imo": 9904510,
+      "name": "Ever Cozy",
+      "length": 172.1,
+      "width": 27.4
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437207000,
+        "speed": 0,
+        "draft": 8.8,
+        "cog": 4.4,
+        "heading": 298
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          27.64709,
+          43.190252
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9903243,
+      "name": "Ever Clever",
+      "length": 172,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437150000,
+        "speed": 0,
+        "draft": 9.6,
+        "cog": 187.2,
+        "heading": 321
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.31453,
+          22.55906
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9904522,
+      "name": "Ever Convey",
+      "length": 172.1,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701436830000,
+        "speed": 28,
+        "draft": 9.1,
+        "cog": 129.8,
+        "heading": 131
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.013758,
+          35.88906
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9903255,
+      "name": "Ever Certain",
+      "length": 172,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437311000,
+        "speed": 2.8,
+        "draft": 8,
+        "cog": 162.8,
+        "heading": 267
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          120.099258,
+          22.579378
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9913810,
+      "name": "Ever Compose",
+      "length": 171.9,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701313904000,
+        "speed": 29.3,
+        "draft": 10.2,
+        "cog": 247.1,
+        "heading": 246
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          119.684105,
+          22.31771
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9904534,
+      "name": "Ever Career",
+      "length": 172.1,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701383136000,
+        "speed": 5,
+        "draft": 9.1,
+        "cog": 98.9,
+        "heading": 100
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.362192,
+          18.554743
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9903267,
+      "name": "Ever Command",
+      "length": 172,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437307000,
+        "speed": 0,
+        "draft": 7.3,
+        "cog": 265.8,
+        "heading": 244
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          121.390088,
+          25.163852
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9913822,
+      "name": "Ever Concise",
+      "length": 171.9,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701422935000,
+        "speed": 28.7,
+        "draft": 7.1,
+        "cog": 55.6,
+        "heading": 55
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          122.057833,
+          26.046213
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9913834,
+      "name": "Ever Concert",
+      "length": 171.9,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701384077000,
+        "speed": 31.1,
+        "draft": 8.7,
+        "cog": 215.2,
+        "heading": 217
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          128.45355,
+          33.789635
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9919589,
+      "name": "Ever Connect",
+      "length": 171.9,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701405039000,
+        "speed": 32.2,
+        "draft": 9.1,
+        "cog": 64.3,
+        "heading": 61
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          125.410227,
+          28.43322
+        ]
+      }
+    }
+  }
+][
+  {
+    "info": {
+      "imo": 9913846,
+      "name": "Ever Conform",
+      "length": 171.9,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701413302000,
+        "speed": 0,
+        "draft": 8.6,
+        "cog": 197.2,
+        "heading": 296
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          112.912958,
+          3.31608
+        ]
+      }
+    }
+  },
+  {
+    "info": {
+      "imo": 9919450,
+      "name": "Ever Consist",
+      "length": 171.9,
+      "width": 0
+    },
+    "position": {
+      "type": "Feature",
+      "properties": {
+        "timestamp": 1701437234000,
+        "speed": 0,
+        "draft": 8.9,
+        "cog": 158.7,
+        "heading": 304
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          106.790407,
+          20.828423
+        ]
+      }
+    }
+  }
+]
