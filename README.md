@@ -29,3 +29,5 @@ node index.js
 ```  
 
 API documentation please refer to /api-docs
+
+[simple demo video](https://youtu.be/W83Az3xpWZs)
