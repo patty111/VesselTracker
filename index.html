@@ -62,7 +62,7 @@
           pathPointLat={(p) => p[1]}
           pathPointLng={(p) => p[0]}
           pathColor={(path) => path.vessel.color}
-          pathLabel={path => path.vessel.imo} // Update with your actual property
+          pathLabel={path => path.vessel.properties.vessel.imo + "\n" + path.vessel.properties.vessel.name}
           pathDashLength={0.1}
           pathDashGap={0.008}
           pathDashAnimateTime={12000}
