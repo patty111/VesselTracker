@@ -1,0 +1,90 @@
+<head>
+  <style>
+    body {
+      margin: 0;
+    }
+  </style>
+
+  <script src="//unpkg.com/react/umd/react.production.min.js"></script>
+  <script src="//unpkg.com/react-dom/umd/react-dom.production.min.js"></script>
+  <script src="//unpkg.com/@babel/standalone"></script>
+
+  <script src="//unpkg.com/react-globe.gl"></script>
+  <script src="CoordinateDto.js"></script>
+  <!--<script src="../../dist/react-globe.gl.js"></script>-->
+</head>
+
+<body>
+  <div id="globeViz"></div>
+
+  <script type="text/jsx">
+    // Utility function to generate a random color
+    const getRandomColor = () => {
+      const letters = '0123456789ABCDEF';
+      let color = '#';
+      for (let i = 0; i < 6; i++) {
+        color += letters[Math.floor(Math.random() * 16)];
+      }
+      return color;
+    };
+
+    const { useState, useEffect } = React;
+
+    const World = ({ traceResponseData }) => {
+      const [vesselPaths, setVesselPaths] = useState([]);
+
+      useEffect(() => {
+        if (traceResponseData && traceResponseData.length > 0) {
+          let vesselPaths = [];
+          traceResponseData.forEach((featureCollection) => {
+            featureCollection.features.forEach(({ geometry, properties }) => {
+              geometry.coordinates.forEach((coords) => {
+                const randomColor = getRandomColor();
+                vesselPaths.push({ coords, vessel: { properties, color: randomColor } });
+              });
+            });
+          });
+
+          setVesselPaths(vesselPaths);
+          console.log('Vessel trace data processed:', vesselPaths);
+        } else {
+          console.error('Invalid or missing features array in trace data:', traceResponseData);
+        }
+      }, [traceResponseData]);
+
+      return (
+        <Globe
+          globeImageUrl="//unpkg.com/three-globe/example/img/earth-dark.jpg"
+          bumpImageUrl="//unpkg.com/three-globe/example/img/earth-topology.png"
+          backgroundImageUrl="//unpkg.com/three-globe/example/img/night-sky.png"
+          pathsData={vesselPaths}
+          pathPoints="coords"
+          pathPointLat={(p) => p[1]}
+          pathPointLng={(p) => p[0]}
+          pathColor={(path) => path.vessel.color}
+          pathLabel={path => path.vessel.properties.vessel.imo + "\n" + path.vessel.properties.vessel.name}
+          pathDashLength={0.1}
+          pathDashGap={0.008}
+          pathDashAnimateTime={12000}
+        />
+      );
+    };
+
+    const filePath = 'server/vessel_trace_data.json';
+    fetch(filePath)
+      .then((response) => {
+        if (!response.ok) {
+          throw new Error('Network response was not ok');
+        }
+        return response.json();
+      })
+      .then((traceResponseData) => {
+        console.log('Trace Response Data:', traceResponseData);
+        ReactDOM.render(
+          <World traceResponseData={traceResponseData} />,
+          document.getElementById('globeViz')
+        );
+      })
+      .catch((error) => console.error('Error loading trace data:', error));
+  </script>
+</body>
