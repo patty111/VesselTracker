@@ -11,27 +11,37 @@ const getRandomColor = () => {
   return color;
 };
 
-const World = ({ traceResponseData }) => {
+const World = () => {
   const [vesselPaths, setVesselPaths] = useState([]);
 
   useEffect(() => {
-    if (traceResponseData && traceResponseData.length > 0) {
-      let vesselPaths = [];
-      traceResponseData.forEach((featureCollection) => {
-        featureCollection.features.forEach(({ geometry, properties }) => {
-          geometry.coordinates.forEach((coords) => {
-            const randomColor = getRandomColor();
-            vesselPaths.push({ coords, vessel: { properties, color: randomColor } });
+    fetch('http://localhost:3012/api/getVesselTraceData')
+      .then((response) => {
+        if (!response.ok) {
+          throw new Error('Network response was not ok');
+        }
+        return response.json();
+      })
+      .then((traceResponseData) => {
+        if (traceResponseData && traceResponseData.length > 0) {
+          let paths = [];
+          traceResponseData.forEach((featureCollection) => {
+            featureCollection.features.forEach(({ geometry, properties }) => {
+              geometry.coordinates.forEach((coords) => {
+                const randomColor = getRandomColor();
+                paths.push({ coords, vessel: { properties, color: randomColor } });
+              });
+            });
           });
-        });
-      });
 
-      setVesselPaths(vesselPaths);
-      console.log('Vessel trace data processed:', vesselPaths);
-    } else {
-      console.error('Invalid or missing features array in trace data:', traceResponseData);
-    }
-  }, [traceResponseData]);
+          setVesselPaths(paths);
+          console.log('Vessel trace data processed:', paths);
+        } else {
+          console.error('Invalid or missing features array in trace data:', traceResponseData);
+        }
+      })
+      .catch((error) => console.error('Error loading trace data:', error));
+  }, []);
 
   return (
     <Globe
@@ -40,10 +50,10 @@ const World = ({ traceResponseData }) => {
       backgroundImageUrl="//unpkg.com/three-globe/example/img/night-sky.png"
       pathsData={vesselPaths}
       pathPoints="coords"
-      pathPointLat={p => p[1]}
-      pathPointLng={p => p[0]}
-      pathColor={path => path.vessel.color}
-      pathLabel={path => path.vessel.properties.vessel.imo + "\n" + path.vessel.properties.vessel.name}
+      pathPointLat={(p) => p[1]}
+      pathPointLng={(p) => p[0]}
+      pathColor={(path) => path.vessel.color}
+      pathLabel={(path) => path.vessel.properties.vessel.imo + "\n" + path.vessel.properties.vessel.name}
       pathDashLength={0.1}
       pathDashGap={0.008}
       pathDashAnimateTime={12000}
