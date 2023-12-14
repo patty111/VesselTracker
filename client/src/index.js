@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import ReactDOM from 'react-dom/client';
-import World from './App';
+import World from './World';
 import traceData from './vessel_trace_data.json';
 
 const App = () => {
