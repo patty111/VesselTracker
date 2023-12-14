@@ -3,17 +3,21 @@ const express = require('express');
 const cors = require('cors');
 const Knex = require('knex');
 const { Model } = require('objection');
+<<<<<<< Updated upstream
 const swaggerUi = require('swagger-ui-express');
 const swaggerDocument = require('./swagger.json');
 
 const vesselRouter = require('./router/vesselRouter');
+=======
 const sdk = require('api')('@searoutes-docs/v2.0#14s2xo1blp0yncgo');
 const fs = require('fs');
 const path = require('path');
+>>>>>>> Stashed changes
 
 const Vessel = require('./model/Vessel');
 
 const knex = Knex({
+<<<<<<< Updated upstream
     client: 'sqlite3',
     useNullAsDefault: true,
     connection: {
@@ -21,6 +25,14 @@ const knex = Knex({
     }
 });
 
+// Give the knex instance to objection.
+=======
+  client: 'sqlite3',
+  useNullAsDefault: true,
+  connection: {
+    filename: '../vessel.sqlite',
+  },
+});
 
 // Add your actual API keys
 const apiKeys = ['HtO3NcFc9Oghha0HhOAFaHIloSd13As4DQDIDrU3', 'bvqAXYx7Vj2PEAbSHiqx26W9zRcauglS6tVxernf', 'TOpJLhrhIz22rl8CcveyKahvTKye3AwJwV8QMgwf'];
@@ -95,6 +107,7 @@ const fetchVesselEtaFromDb = async () => {
     }
 };
   
+>>>>>>> Stashed changes
 Model.knex(knex);
 
 const app = express();
@@ -102,6 +115,7 @@ const port = 3012;
 
 app.use(cors());
 app.use(express.json());
+<<<<<<< Updated upstream
 app.use('/vessel', vesselRouter);
 app.use('/api-docs', swaggerUi.serve, swaggerUi.setup(swaggerDocument));
 
@@ -119,3 +133,21 @@ app.get('/fetchVesselTrace', async (req, res) => {
 app.listen(port, () => {
   console.log(`Server listening at port ${port}`);
 });
+=======
+
+// Endpoint to trigger the vessel trace data fetch
+app.get('/fetchVesselTrace', async (req, res) => {
+  console.log('Fetching vessel trace data...');
+  await fetchVesselEtaFromDb();
+
+  // Delay for 1 minute before allowing the next request
+  setTimeout(() => {
+    res.send('Vessel trace data fetch initiated.');
+  }, 60000); // 60000 milliseconds = 1 minute
+});
+
+app.listen(port, () => {
+  console.log(`Server listening at port ${port}`);
+});
+
+>>>>>>> Stashed changes
