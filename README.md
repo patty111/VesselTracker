@@ -9,7 +9,7 @@ To view `vessel.sqlite`, you can download something like [this](https://marketpl
 
 ## Clone & Setup
 The dev environment is on Windows  
-Prerequisit: should have npm and python installed
+Prerequisit: should have npm, node and python installed
 
 ```bash
 git clone https://github.com/patty111/VesselTracker  
@@ -29,3 +29,9 @@ node index.js
 ```  
 
 API documentation please refer to /api-docs
+
+[simple demo video](https://youtu.be/e8l1OI3lges)  
+
+### Reference
+##### CSS
+- https://devdevout.com/css/css-cards
