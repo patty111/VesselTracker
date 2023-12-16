@@ -7,11 +7,10 @@
       margin: 0;
     }
   </style>
-  <link rel="stylesheet" type="text/css" href="client\src\World.css">
+  <link rel="stylesheet" type="text/css" href="client/src/World.css">
   <script src="//unpkg.com/react/umd/react.production.min.js"></script>
   <script src="//unpkg.com/react-dom/umd/react-dom.production.min.js"></script>
   <script src="//unpkg.com/@babel/standalone"></script>
-
   <script src="//unpkg.com/react-globe.gl"></script>
   <script src="//unpkg.com/chroma-js/chroma.min.js"></script>
 </head>
@@ -20,51 +19,31 @@
   <div id="globeViz"></div>
 
   <script type="text/babel">
-    // Utility function to generate a random color
-    const getRandomColor = () => {
-      const letters = '0123456789ABCDEF';
-      let color = '#';
-      for (let i = 0; i < 6; i++) {
-        color += letters[Math.floor(Math.random() * 16)];
-      }
-      return color;
-    };
-  
     const { useState, useEffect } = React;
-  
+
     const World = ({ traceResponseData }) => {
       const [vesselPaths, setVesselPaths] = useState([]);
       const [selectedPath, setSelectedPath] = useState(null);
-  
+
       useEffect(() => {
-        fetch('http://localhost:3012/api/VesselTraceData')
-          .then((response) => {
-            if (!response.ok) {
-              throw new Error('Network response was not ok');
-            }
-            return response.json();
-          })
-          .then((traceResponseData) => {
-            if (traceResponseData && traceResponseData.length > 0) {
-              let vesselPaths = [];
-              traceResponseData.forEach((featureCollection) => {
-                featureCollection.features.forEach(({ geometry, properties }) => {
-                  geometry.coordinates.forEach((coords) => {
-                    const randomColor = getRandomColor();
-                    vesselPaths.push({ coords, vessel: { properties, color: randomColor } });
-                  });
-                });
+        // Process the traceResponseData here
+        if (traceResponseData && traceResponseData.length > 0) {
+          let paths = [];
+          traceResponseData.forEach((featureCollection) => {
+            featureCollection.features.forEach(({ geometry, properties }) => {
+              geometry.coordinates.forEach((coords) => {
+                const randomColor = getRandomColor();
+                paths.push({ coords, vessel: { properties, color: randomColor } });
               });
-  
-              setVesselPaths(vesselPaths);
-              console.log('Vessel trace data processed:', vesselPaths);
-            } else {
-              console.error('Invalid or missing features array in trace data:', traceResponseData);
-            }
-          })
-          .catch((error) => console.error('Error loading trace data:', error));
-      }, []);
-  
+            });
+          });
+          setVesselPaths(paths);
+          console.log('Vessel trace data processed:', paths);
+        } else {
+          console.error('Invalid or missing features array in trace data:', traceResponseData);
+        }
+      }, [traceResponseData]);
+
       return (
         <>
           <Globe
@@ -86,7 +65,7 @@
               console.log(path);
             }}
           />
-  
+
           {selectedPath && (
             <div className="gradient-cards">
               <div className="card">
@@ -94,7 +73,6 @@
                   background: `linear-gradient(71deg, #0d1212, ${chroma(selectedPath.vessel.color).darken().desaturate(0).hex()}, #0d1212)`
                 }}
                 >
-  
                   <p className="card-title">{selectedPath.vessel.properties.vessel.name}</p>
                   <p className="card-description">IMO: {selectedPath.vessel.properties.vessel.imo}</p>
                   <p className="card-description">{(() => {
@@ -119,7 +97,18 @@
         </>
       );
     };
-  
+
+    // Utility function to generate a random color
+    const getRandomColor = () => {
+      const letters = '0123456789ABCDEF';
+      let color = '#';
+      for (let i = 0; i < 6; i++) {
+        color += letters[Math.floor(Math.random() * 16)];
+      }
+      return color;
+    };
+
+    // Fetch the JSON data from the server
     const filePath = 'server/vessel_trace_data.json';
     fetch(filePath)
       .then((response) => {
@@ -130,6 +119,7 @@
       })
       .then((traceResponseData) => {
         console.log('Trace Response Data:', traceResponseData);
+        // Render the React component with the fetched data
         ReactDOM.render(
           <World traceResponseData={traceResponseData} />,
           document.getElementById('globeViz')
@@ -137,7 +127,6 @@
       })
       .catch((error) => console.error('Error loading trace data:', error));
   </script>
-  
 </body>
 
 </html>
